@@ -91,7 +91,7 @@ body, html {
     <td><input type=text name="Userid"  placeholder="user@cocktail.com" ></td>
     </tr>
     <tr>
-    <td>Password</td>
+     <td>Password</td>
     <td><input type="Password" name="password"  placeholder="*****"></td>
     </tr>
     </table>
