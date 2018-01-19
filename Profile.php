@@ -40,7 +40,7 @@
        if ($con->query($sql) == TRUE){}                          //checks if given SQL command is valid or 
 	   else
 	   {                                                      //if not valid print error msg
-         echo "Error: " . $sql . "<br>" . $con->error; }		  
+         echo "Error: " . $sql . "<br>" . $con->error;  }		  
        $con->close(); 
 	?>  
 	 
